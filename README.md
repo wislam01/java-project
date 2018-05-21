@@ -1,3 +1,3 @@
 # java-project
 
-Java Project for Jenkins Practice
+Java Project for Jenkins Testing
